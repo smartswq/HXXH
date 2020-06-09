@@ -1,2 +1,2 @@
-# HXXH.github.io
+# smartswq.github.io
 个人网站
